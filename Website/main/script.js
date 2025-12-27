@@ -1,4 +1,4 @@
-// Hiệu ứng xuất hiện khi tải trang
+// Hiệu ứng xuất hiện khi tải trang 
 document.addEventListener("DOMContentLoaded", () => {
     const content = document.querySelector('.container');
     if (content) {
